@@ -36,4 +36,5 @@ Curious Cosmos is an interactive web application built with Streamlit that lever
 - The `pyttsx3` library is included for potential text-to-speech functionality, but it's not currently implemented in this version. You can explore adding this feature in the future.
 - Feel free to customize the project to fit your specific needs, such as expanding the range of supported scientific topics or tailoring the greetings and responses.
 
-<img width="1429" alt="Screenshot 2024-07-10 at 7 50 38 PM" src="https://github.com/johnny-john7/GeminiScienceBot/assets/116308028/969aa571-7b19-4f3d-a2c8-e75b600a2c2a">
+
+<img width="1429" alt="Screenshot 2024-07-10 at 7 50 38 PM" src="https://github.com/johnny-john7/GeminiScienceBot/assets/116308028/c40b3339-98b5-440e-8e4a-19eeeea151e9">
