@@ -15,7 +15,7 @@ Curious Cosmos is an interactive web application built with Streamlit that lever
 
 **Installation:**
 
-1. **Clone the repository:** Use `git clone https://github.com/<your-username>/curious-cosmos.git` to clone this repository.
+1. **Clone the repository:** Use `git clone https://github.com/johnny-john7/curious-cosmos.git` to clone this repository.
 2. **Create a virtual environment (recommended):** Create and activate a virtual environment using tools like `venv` or `conda` to isolate project dependencies.
 3. **Install dependencies:** Run `pip install -r requirements.txt` to install the required Python libraries (Streamlit, dotenv, google-generativeai, pyttsx3).
 4. **Set up Google API Key:**
